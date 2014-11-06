@@ -88,7 +88,7 @@ $( document ).ready(function(){
 	});
 
 
-	$('input:radio[name="campoe_308_114"]').on('change',
+	$('input:radio[name="campoe_312_122"]').on('change',
 	    function(){
 	    	console.log("changed");
 	    	if ($(this).is(':checked') && $(this).val() == 'juntar outra equipa') {
